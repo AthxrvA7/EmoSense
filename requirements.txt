@@ -1,0 +1,21 @@
+# Core ML / NLP
+scikit-learn==1.5.1
+numpy==1.26.4
+
+# Data handling
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.9.0
+
+# Database
+pymongo==4.7.2
+
+# (Optional but recommended for dataset)
+datasets==2.19.0
+
+# GUI (Tkinter comes pre-installed with Python usually)
+# If missing (Linux), install via system package manager
+
+# Utilities (optional but safe)
+python-dateutil==2.9.0.post0
